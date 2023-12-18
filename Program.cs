@@ -22,7 +22,7 @@ for (int fila = 0; fila < 10; fila++)
     }
     Console.WriteLine();
 }
-for(int fila = 1;fila < 100; fila++)
+for(int fila = 1;fila < 101; fila++)
 {
     Console.WriteLine(fila);
 }
